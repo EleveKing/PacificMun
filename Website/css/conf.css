@@ -1,0 +1,186 @@
+                    /* Hero */
+.hero{
+    padding-top:70px;
+    height:100vh;
+    background-image:url(../img/cityBuild.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.countdown{
+    text-align: center; 
+    padding-top:30vh;
+}
+.herocountdownborder{
+    border-left:1px solid blue;
+}
+.tagdata{
+    text-align: center;
+    padding-top:20vh;
+}
+                    /* About */
+.about{
+    height:60vh;
+}
+.aboutl{
+    background-color:#2980b9;
+    color:white;
+    height:100%;
+}
+.aboutlh1{
+    padding-left:15px;
+    font-size:2.5em;
+}
+.abouthr{
+    margin-left: 15px;
+}
+.aboutlp{
+    padding-left: 15px;
+}
+.aboutmimg{
+    background-image: url(../img/Pinnacle/DeathtoStock_London6-uai-1440x960.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+    height:100%;    
+}
+.aboutr{
+    background-color:grey;
+    color:white;
+    height:100%;
+    text-align: center;
+}
+.aboutrfa-gavel{
+    padding-top: 25px;
+    font-size:3em;
+}
+                    /* Schedule */
+.schedule{
+    height:85vh;
+    background-image: url(../img/ConferenceRoom.jpg);
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+    
+}
+.scheL{
+    height:100%;
+    
+}
+.scheR{
+    height:100%;
+}
+.scheLcard{
+    text-align: center;
+    border:5px solid white;
+    border-radius:25px;
+    height:90%;
+    margin:25px;
+    color:white;
+    background-color:rgba(41,128,185,0.5);
+    transition: background-color 2s, border 2s;
+}
+.scheLcard:hover{
+    background-color:rgb(41,128,185);
+    border:5px solid #2980b9;
+}
+.sche-card-fa{
+    font-size:4em;
+    padding-top: 25px;
+}
+.scheLcard-bottom{
+    border-top:5px solid white;
+}
+
+
+.scheRcard{
+    text-align: center;
+    border:5px solid white;
+    border-radius:25px;
+    height:90%;
+    margin:25px;
+    color:white;
+    background-color:rgba(41,128,185,0.5);
+    transition: background-color 2s, border 2s;
+}
+.scheRcard:hover{
+    background-color:rgb(41,128,185);
+    border:5px solid #2980b9;
+}
+
+.sche-card-a{
+    color:white;
+    text-transform: uppercase;
+}
+.sche-card-a:hover{
+    text-transform: uppercase;
+    color:white;    
+}
+.schedule-hr{
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+
+
+
+                    /* Keynote */
+.keynote{
+    height:50vh;
+}
+
+
+
+
+
+
+
+
+
+
+                    /* Cost */
+.cost{
+    height:100vh;
+    background-color: pink;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    /* Social */
+.social{
+    height:50vh;
+}
+                    /* Venue */
+.venue{
+    height:50vh;
+}
+.venue-map{
+    height:50vh;
+}

@@ -1,0 +1,102 @@
+                        /* Sponsor */
+*{
+    text-align: center;
+}
+.h1botborder{
+    padding-bottom: 25px;
+    border-bottom: 2px solid #2980b9;
+}
+                        /* About Sponsorship */
+.aboutspons{
+    margin-top:70px;
+}
+ 
+                        /* Display Our Sponsors */
+.sponsor-display{
+    background-image: url(../img/Sponsor/cityWallpaperSpons.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+sponsor-dis-left{
+    
+}
+sponsor-dis-right{
+    
+}
+
+                        /* Row of Sponsors */
+.sponsor-line{
+    
+}
+.sponsor-line-img{
+    width:100%;
+}
+                        /* Become A Sponsor */
+.becomeSponsor{
+    
+}
+.becomeSponsorCards{
+    padding:15px 0px;
+}
+
+.becomeSponsor-card-3{
+    padding-right:0px;
+    padding-left:0px;
+}
+.becomeSponsor-top-3{
+    background-color:silver;
+    padding: 50px 0px;
+}
+.becomeSponsor-middle-3{
+    
+}
+.becomeSponsor-bottom-3{
+    
+}
+.becomeSponsor-top-1{}
+.becomeSponsor-middle-1{}
+.becomeSponsor-bottom-1{}
+.becomeSponsor-top-2{}
+.becomeSponsor-middle-2{}
+.becomeSponsor-bottom-2{}
+.becomeSponsor-top-4{}
+.becomeSponsor-middle-4{}
+.becomeSponsor-bottom-4{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.becomeSponsor-card-1{
+    background-color: azure;
+}
+.becomeSponsor-card-2{
+    background-color: gold;
+}
+.becomeSponsor-card-4{
+    background-color:sandybrown;
+}
+.midp{
+    font-family: open;
+}
+.topH1{
+    font-family: open;
+    font-weight: bold;
+    color:white;
+}
+.topH3{
+    font-family: open;
+    font-size:1em;
+    font-weight: bold;
+    color:white;
+}
